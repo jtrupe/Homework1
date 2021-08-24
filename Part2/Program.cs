@@ -1,9 +1,9 @@
 ﻿/// Chapter No. 1		Homework 1 Part 2
 /// File Name: Homework1.cs
-/// @author: Bill Gates
-/// Date:  August 24, 2015
+/// @author: Julian Trupe
+/// Date:  August 23, 2021
 ///
-/// Problem Statement: d
+/// Problem Statement: print a simple image
 /// 
 /// 
 /// 
